@@ -1,2 +1,3 @@
-# example_website
-My first website
+# About
+
+This is my first website.
